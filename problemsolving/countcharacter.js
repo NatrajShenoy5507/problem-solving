@@ -19,3 +19,10 @@ function countChar(char){
 }
 const findChar = countChar("Natr ajn");
 console.log(findChar);
+
+/*
+
+Im preparing for the SDET role I have 4 years of qa experience. 
+I appeared for the SDET interviews and I got badly rejected due to my poor problem solving skills, Even though I do coding and solve problems of automation using cypress in my work, I couldnt solve it. Im good with javascript, but when I try to solve problem, I feel dumb and panic and could not solve it.
+
+*/
